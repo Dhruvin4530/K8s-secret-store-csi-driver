@@ -1,0 +1,8 @@
+apiVersion: v1
+appVersion: 0.6.0
+description: My web app chart
+maintainers:
+- email: dksoni4530@gmail.com
+  name: Dhruvin Soni
+name: my-web-app
+version: 0.0.1
