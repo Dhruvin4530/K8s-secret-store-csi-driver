@@ -1,2 +1,1 @@
-# K8s-secret-store-csi-driver
-AWS Secrets Manager Secrets in Kubernetes with Secerts Store CSI Driver
+# AWS Secrets Manager Secrets in Kubernetes with Secrets Store CSI Driver
